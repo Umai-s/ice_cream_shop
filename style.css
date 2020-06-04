@@ -1,0 +1,517 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+/*********NAVBAR**********/
+.navv{
+    font-size: 16px;
+    padding-left: 0px;
+    padding-right: 0px ;
+    margin: 0px;
+    margin-bottom: -20px;
+}
+.navv img{
+    height:60px
+}
+.navbar-brand{
+    font-size: xx-large;
+}
+.navbar ul{
+    padding: 70px;
+}
+.navbar a {
+    font-weight: bold;
+}
+.navbar li{
+    padding: 7px;
+}
+.navbar i{
+    cursor: pointer;
+}
+/**********main PAGE********/
+.main{
+    /* background-color: #faa2db; */
+    /* background-color: lightsalmon; */
+    background-color: lightpink;
+}
+.box{
+    width: 100%;
+    height: auto;
+}
+.box img{
+    height: auto;
+}
+.text-block {
+        position: absolute;
+        left: 310px;
+}
+.box h1{
+    font-weight: 900;
+    font-size: 10em;
+    text-emphasis: none;
+    font-size:10vw;
+}
+.box2{
+    padding: 10px;
+    background-color: #56bfd1;
+    font-size: 20px;
+    font-weight: bold;
+    background-image: url(images/frame-with-ice-cream.jpg);
+}
+.local{
+    margin-left: 2em;
+}
+.local h2{
+    color: #ed7337;
+    font-weight: 800;
+    font-size: 4em;
+    margin-top: 2em;
+}
+.local button{
+    padding: 10px 30px;
+    font-weight: 600;
+    color: white;
+    letter-spacing: 3px;
+    margin-top: 3em;
+}
+.local button:hover{
+    color:white;
+}
+/**********small batch********/
+.innerdiv{
+    font-size: 18px;
+    padding: 10px 15px;
+    color: gray;
+    margin: 15px;
+}
+
+/***********visit portion*******/
+.visit h1
+{
+    font-size: 10vw;
+    font-weight: 900;
+}
+.visit{
+    margin-top: 30px;
+}
+.left{
+    margin-right: 8em;
+}
+/***********join us*******/
+.join #j{
+    font-weight: 600;
+    color: hotpink;
+    letter-spacing: 3px;
+    margin-top: 6em;
+}
+.join h1{
+    font-size: 7vw;
+    font-weight: 800;
+}
+.join h2{
+    font-size: 7vw;
+}
+.join p{
+    font-weight: 600;
+    color: hotpink;
+    letter-spacing: 3px;
+}
+.join img{
+    width: 40%;
+}
+/********fresh portion********/
+.fresh span{
+    font-size: 8vw;
+    font-weight: 800;   
+}
+.fresh h2{
+    font-size: 7vw;
+    font-weight: lighter;   
+}
+.fresh .text-block {
+    position: absolute;
+    left: 110px;
+}
+/***********orange portion**********/
+.orange{
+    background-color: #f59542;
+}
+.orange #july{
+    font-weight: 600;
+    color: white;
+    letter-spacing: 3px;
+    margin-top: 6em;
+}
+.orange h1{
+    font-size: 5vw;
+    font-weight: 800;
+    color: white;
+}
+.orange h2{
+    color: white;
+    font-size:5vw;
+}
+.orange img{
+    width: 50%;
+}
+#h{
+    font-weight: 600;
+    color: black;
+    letter-spacing: 3px;
+    margin-top: 6em;
+}
+.o2 h2{
+    font-size: 6vw;
+    font-weight: 800;
+}
+.o2 h1{
+    font-size: 6vw;
+}
+.o2 button{
+    background-color: #f59542;
+    border-color: #f59542;
+    padding: 10px 30px;
+    font-weight: 600;
+    color: white;
+    letter-spacing: 3px;
+    margin-top: 3em;
+}
+.o2 button:hover{
+    background-color: #ed7337;
+}
+.orange button{
+    position: absolute;
+    left: 350px;
+    bottom:120px;
+}
+.orange button:hover{
+    color:white;
+    /* background-color: #f59542; */
+}
+/********icons*******/
+.icon i{
+    background-color:darkgray;
+    border-radius: 1em;
+    height:25px;
+    width:30px;
+}
+
+
+/*****************HOME****************/
+
+
+/****1st portion*******/
+.home_first{
+    background-color: #56bfd1;
+    height: 100%;
+    width: 75%;
+    margin-top: -30px;
+}
+.home_first img{
+    margin-left: 10em;
+    margin-top: 13em;
+}
+.k{
+    position: absolute;
+    left: 190px;
+    top: 0px;
+}
+.b{
+    position: absolute;
+    left: 190px;
+    top:270px;   
+    padding: 10px 30px;
+    font-weight: 600;
+    color: white;
+    letter-spacing: 3px;
+    margin-top: 3em;
+}
+.b:hover{
+    color:white;
+}
+
+
+/******2nd portion******/
+.secnd{
+    background-color: #faa2db;
+    width: 70%;
+    margin-left: 20%;
+}
+.q{
+    margin-top: 5em;
+    height: 30%;
+}
+.p{
+    position: absolute !important;
+    left: 320px !important;
+    bottom:80px !important;
+    padding: 10px 30px;
+    font-weight: 600;
+    color: white;
+    letter-spacing: 3px;
+    margin-top: 3em;
+}
+#pista{
+    color:greenyellow;
+}
+
+
+
+/*********Servicess************/
+
+/****1st portion*****/
+.services_first{
+    background-color: #56bfd1;
+    width: 60%;
+    height: 38em;
+    margin-top: -30px;
+    background-image: url(images/frame-with-ice-cream.jpg);
+}
+.delivery{
+    background-color: hotpink;
+    position: absolute;
+    right: 8em;
+    height: 45%;
+    width: 30%;
+}
+.What{
+    position: absolute;
+    left: 57px;
+}
+.delivery h2{
+    color: white;
+    font-weight: 800;
+    font-size: 4vw;
+    margin-left: 1em;
+}
+#lorem{
+    text-align: justify;
+    margin-right: 5em;
+    line-height: 2.5em;
+    color: gray;
+    font-weight: 600;
+}
+/******pints portion******/
+.ser h2{
+    font-size:4em;
+}
+.pints{
+    padding: 10px 30px;
+    font-weight: 600;
+    color: white;
+    letter-spacing: 3px;
+    margin-top: 1em;   
+}
+.pints:hover{
+    color: white;
+}
+.ser p{
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    text-align: justify !important;
+    color: darkgray;
+    line-height: 2em;
+}
+
+/***menu portion***/
+.table_p{
+    font-size: 12px;
+    color: gray !important;
+    text-align: justify !important;
+}
+.ordr{
+    border-color: red;
+    font-weight: 600;
+    letter-spacing: 3px;
+    margin-top: 1em;    
+}
+.ordr:hover{
+    color: white;
+}
+/************BLOG**********/
+.yelloww{
+    background-color: #faef57;
+    height: 180%;
+    width: 100%;
+}
+.yelloww h1{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.black{
+    background-color: black;
+    width: 75%;
+    height: 35%;
+    margin-top: 20%;
+}
+.black input{
+    padding: 10px 40px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    margin-top: 2em;
+    margin-left: 3em;
+}
+.black button{   
+    padding: 10px 80px;
+    font-weight: 600;
+    background-color: #f05682;
+    letter-spacing: 3px;
+    margin-left: 3em;
+
+}
+.black button:hover{
+    background-color: #f36099;
+}
+
+
+/****blog posts***/
+.blog h5{
+    font-weight: 600;
+    color: black;
+    letter-spacing: 3px;
+}
+.blog p{
+    font-weight: 600;
+    color: hotpink;
+    letter-spacing: 3px;
+}
+
+
+
+
+/***********MENU STARTED********/
+.menu {
+    background-color: none !important;
+}
+.menu button{
+    position: absolute;
+    left: 80px;
+}
+.pink{
+    background-color: #faa2db;
+    height: 55%;
+    width: 60%;
+}
+.real{
+    margin-top: -20%;
+    margin-left: 3em;
+}
+.orng{
+    width: 90%;
+    height: auto;
+}
+.real img{
+    width: 80%;
+    margin-top: 1em;
+}
+/***flavour portion***/
+.flavour h1{
+    font-size: 5vw;
+    font-weight: 800;
+    letter-spacing: -4px;
+    color: black;
+}
+.card-header{
+   font-weight: 600;
+    color: hotpink;
+    letter-spacing: 3px;
+}
+.card-title{
+   font-weight: 600;
+   letter-spacing: 3px;
+}
+.card{
+    display: inline-block;
+}
+.a .card{
+    display: block;
+}
+
+
+/*************ABout us***********/
+.blackk img{
+    width: 20%;
+}
+.blackk{
+    background-color: black;
+    width: 75%;
+    height: 5%;
+    margin-top: 20%;
+}
+.blackk input{
+    padding: 10px 40px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    margin-top: 2em;
+    margin-left: 3em;
+}
+.blackk button{   
+    padding: 10px 80px;
+    font-weight: 600;
+    background-color: #f05682;
+    letter-spacing: 3px;
+    margin-left: 3em;
+
+}
+.blackk button:hover{
+    background-color: #f36099;
+}
+
+.joinn #j{
+    font-weight: 600;
+    color: white;
+    letter-spacing: 3px;
+    margin-top: 1em;
+}
+.joinn h1{
+    color: white;
+    font-size: 3vw;
+    font-weight: 800;
+}
+.joinn p{
+    font-weight: 300;
+    color: white;
+    letter-spacing: 3px;
+}
+.map iframe{
+    width: 1300px !important; 
+    height: 480px !important;
+}
+.fresh span{
+    font-size: 8vw;
+    font-weight: 800;   
+}
+.fresh h2{
+    font-size: 7vw;
+    font-weight: lighter;   
+}
+.fresh .block {
+    position: absolute;
+    right: 20px;
+}
+
+/****************CONTACT***********/
+.get{
+    margin-top: -5%;
+}
+.get img{
+    height: 70%;
+    width: 70%;
+    margin-left: 14% !important;
+}
+.add{
+    padding-top:1em ;
+    margin-left: 20%;
+}
+.add p{
+    font-size: 1.6vw;
+    font-weight: bold;
+}
+.add span{
+    margin-left:30%;
+}
+.formm{
+    padding-top: 120px;
+    margin:80px 100px;
+}
